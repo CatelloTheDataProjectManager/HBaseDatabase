@@ -1,6 +1,7 @@
 # HBaseDatabase
 Creating and Manipulating an HBase Database Using Docker
 
+[Jupyter Notebook](https://github.com/CatelloTheDataProjectManager/HBaseDatabase/blob/main/Hbase_test.ipynb)
 
 #### Column-oriented schemas
 <img src="https://github.com/CatelloTheDataProjectManager/HBaseDatabase/blob/main/column-oriented%20schema.png" width="400">
@@ -26,7 +27,5 @@ The project demonstrates how to insert data into the 'customer' table. It includ
 
 ### Data Retrieval
 The project shows how to retrieve data from the 'customer' table. It includes examples of scanning the entire table and retrieving specific rows based on their key.
-
-**Jupyter Notebook:** [HBase Database Project](https://github.com/CatelloTheDataProjectManager/HBaseDatabase/blob/main/Hbase_test.ipynb)
 
 Feel free to explore the code and documentation to understand the project better. Your feedback and contributions are highly valued! 🚀
